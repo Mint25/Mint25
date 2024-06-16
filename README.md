@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mint25
-- 👀 I’m interested in DevOps
-- 🌱 I’m currently learning Observability 
-- 💞️ I’m looking to collaborate on Observability
+- 👀 I’m interested in eBPF
+- 🌱 I’m currently working as an SRE
+
 
 
 <!---
